@@ -1,2 +1,2 @@
 # VeriEDA
-VeriEDA is a platform for simulating microprocessor architectures
+VeriEDA is a platform for simulating microprocessor architectures using verilog
